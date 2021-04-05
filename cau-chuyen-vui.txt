@@ -1,8 +1,5 @@
 Sau day la 1 cau chuyen buon
-<<<<<<< HEAD
 sua file
 sua file cai gi ma sua
-=======
 sua file [1] ngoc sy
 vì 1 chàng co don mai~
->>>>>>> c6582a2806abd8d11f29079a7af1dc46ceba91ea
